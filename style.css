@@ -8,7 +8,7 @@
 .caixalogin{
   border: solid 2px rgb(76, 70, 70);
   width: 450px;
-  height: 300px;
+  height: 450px;
   border-radius: 10%;
   margin: 0 auto;
 }
@@ -24,5 +24,8 @@ h2{
 
 .d-grid{
   width: 400px;
-  margin: auto;
+  margin: auto
+}
+label{
+  color: rgb(149, 38, 147);
 }
