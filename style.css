@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.caixalogin{
+  border: solid 2px rgb(76, 70, 70);
+  width: 450px;
+  height: 300px;
+  border-radius: 10%;
+  margin: 0 auto;
+}
+#my-form{
+text-align: center;
+;
+}
+
+
+h2{
+  text-align: center;
+}
+
+.d-grid{
+  width: 400px;
+  margin: auto;
+}
